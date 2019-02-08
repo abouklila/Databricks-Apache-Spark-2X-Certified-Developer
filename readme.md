@@ -64,7 +64,7 @@ spark = SparkSession.builder.master("local[*]").getOrCreate()
 
 
 ## <a name="20"></a>2. POINTS TO CONSIDER
-- 40 questions, 90 minutes  
+- 40 questions, 180 minutes  
 - 70% programming Scala, Python and Java, 30% are theory.  
 - Orielly learning spark : Chapter’s 3,4 and 6 for 50% ; Chapters 8,9(IMP) and 10 for 30%  
 - Programming Languages (Certifications will be offered in Scala or Python)  
